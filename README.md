@@ -1,1 +1,1 @@
-# mitosis_detection
+# Mitosis Detection Project
