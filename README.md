@@ -19,3 +19,6 @@ scipy -> 1.4.0
 livelossplot -> 0.5.0
 
 #### How To Run
+
+1- You should set correct dataset folder name in loadImagesNew.py
+2- You should run train.py
